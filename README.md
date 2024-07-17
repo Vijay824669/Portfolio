@@ -29,7 +29,7 @@ Link :
 # Project 4: AirBnB Listing Price Prediction
 Description : We will be exploring Airbnb listings from the USA; the main goal of this Kernel will be exploring the data and predicting the price of a listing given a new sample.
 
-Link :
+Link : https://github.com/Vijay824669/Portfolio/tree/main/AirBnBPricePrediction
 
 # Project 5: Customer Term Deposit Predication
 Description : Bank marketing is known for its nature of developing a unique brand image, which is treated as the capital reputation of the financial academy. It is very important for a bank to develop good relationship with valued customers accompanied by innovative ideas which can be used as measures to meet their requirements.
