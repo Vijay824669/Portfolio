@@ -24,7 +24,7 @@ Link : https://github.com/Vijay824669/vm-dsc680.github.io/tree/main/Project2
 # Project 3: Digital Payment Fraud Prediction
 Description : Digital transactions have become a part of daily life like purchasing a product online, sending money to friends, depositing cash in bank account, investment purposes etc., They had a lot of benefits so does paved way for fraudulent activities. People started using digital money transactions medium to launder money and make the money look like it comes from a legal source.
 
-Link : 
+Link : https://github.com/Vijay824669/Portfolio/tree/main/DigitalPaymentFraudPrediction
 
 # Project 4: AirBnB Listing Price Prediction
 Description : We will be exploring Airbnb listings from the USA; the main goal of this Kernel will be exploring the data and predicting the price of a listing given a new sample.
