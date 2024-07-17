@@ -38,3 +38,8 @@ Customers expect quality services and returns. There are good chances that the q
 Link :https://github.com/Vijay824669/Portfolio/tree/main/Customer%20Term%20Deposit%20Prediction
 
 
+# Connect with me
+@Linkedin : www.linkedin.com/in/VijaykumarMehtre | Email : Mehtre.Vijaykumar@gmail.com
+
+
+
